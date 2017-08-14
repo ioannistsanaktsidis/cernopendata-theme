@@ -31,7 +31,6 @@ import subprocess
 
 from click.testing import CliRunner
 from flask_assets import assets
-
 from invenio_assets.cli import collect, npm
 
 
